@@ -1,6 +1,3 @@
-# RESTfull_University_Project
-RESTfull-based website for learning purpouses.
-
 ### Tytuł projektu:
 System rejestracji danych pogodowych z wykorzystaniem lokalnej bazy danych przeglądarki.
 
